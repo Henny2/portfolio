@@ -9,7 +9,7 @@
 
 
 <img style="float: left;" src="images/UCB_logo.png?raw=true" width="30" height="30"/> &nbsp; &nbsp; Aug 2019 - May 2020: **University of California, Berkeley** <br>
-                            Master in Engineering in [Industrial Engineering and Operations Research](https://ieor.berkeley.edu/master-of-engineering-program/#programoverview) 
+                            Master in Engineering in [Industrial Engineering and Operations Research](https://ieor.berkeley.edu/master-of-engineering-program/#programoverview)  <br>
                             Focus on Data Science and Data Visualization
 
 <img src="images/LSU_logo.jpg?raw=true" width="30" height="30"/>
