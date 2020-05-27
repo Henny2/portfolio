@@ -16,7 +16,7 @@ Fulbright short time program ["Leaders in Entrepreneurship](https://www.fulbrigh
 Classes in entrepreneurship, sales and finance
 
 
-<img style="float: left; "src="images/TUBS_round.png?raw=true" width="30" height="30"/> Oct 2015 - Sep 2018: **Technical University Braunschweig** <br>
+<img style="float: left;" src="images/TUBS_round.png?raw=true" width="30" height="30"/> Oct 2015 - Sep 2018: **Technical University Braunschweig** <br>
 Bachelor of Science in Industrial Engineering (summa cum laude)<br>
 Focus in Automation, Logistics and Operations Research
 
