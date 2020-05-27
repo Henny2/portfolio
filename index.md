@@ -19,16 +19,29 @@ Focus on Data Science and Data Visualization
   </div>
 </div>
 
+<div style="display:flex; flex-direction:row;">
+  <div style="flex: 0 0 30px;" >
+<img style="float:left" src="images/LSU_logo.jpg?raw=true" width="30" height="30"/> 
+  </div>
+ <div style="margin-left:1em"> 
+   Mar 2017: <span style="font-weight: bold"> Louisianna State University </span>
+   <br>
+Fulbright short time program ["Leaders in Entrepreneurship"](https://www.fulbright.de/programs-for-germans/studierende-und-graduierte/leaders-in-entrepreneurship) <br>
+Classes in entrepreneurship, sales and finance
+  </div>
+</div>
 
-<img style="float: left;" src="images/LSU_logo.jpg?raw=true" width="30" height="30"/> &nbsp; &nbsp; Mar 2017: **Louisianna State University** <br>
-&nbsp; &nbsp; Fulbright short time program ["Leaders in Entrepreneurship"](https://www.fulbright.de/programs-for-germans/studierende-und-graduierte/leaders-in-entrepreneurship) <br>
-&nbsp; &nbsp;&nbsp; &nbsp; Classes in entrepreneurship, sales and finance
-
-
-<img style="float: left;" src="images/TUBS_round.png?raw=true" width="30" height="30"/> &nbsp; &nbsp; Oct 2015 - Sep 2018: **Technical University Braunschweig** <br>
-&nbsp; &nbsp; Bachelor of Science in Industrial Engineering (summa cum laude)<br>
-&nbsp; &nbsp; &nbsp; &nbsp; Focus in Automation, Logistics and Operations Research
-
+<div style="display:flex; flex-direction:row;">
+  <div style="flex: 0 0 30px;" >
+<img style="float:left" src="images/TUBS_round.png?raw=true" width="30" height="30"/> 
+  </div>
+ <div style="margin-left:1em"> 
+   Oct 2015 - Sep 2018: <span style="font-weight: bold"> Technical University Braunschweig </span>
+   <br>
+Bachelor of Science in Industrial Engineering (summa cum laude)<br>
+Focus in Automation, Logistics and Operations Research
+  </div>
+</div>
 
 ---
 
