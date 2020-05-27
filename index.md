@@ -1,4 +1,4 @@
-## Portfolio                |        Education                 |          Projects 
+## Education                |        Experiences                 |          Projects          |           Awards
 
 ---
 
