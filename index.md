@@ -8,7 +8,7 @@
 
 
 <img style="float: left;" src="images/UCB_logo.png?raw=true" width="30" height="30"/> &nbsp; &nbsp; Aug 2019 - May 2020: **University of California, Berkeley** <br> 
-&nbsp; &nbsp; Master in Engineering in [Industrial Engineering and Operations Research](https://ieor.berkeley.edu/master-of-engineering-program/#programoverview)  <br>
+&nbsp; &nbsp; Master in Engineering in Industrial Engineering and Operations <br> &nbsp; &nbsp; Research  <br>
 &nbsp; &nbsp; &nbsp; &nbsp; Focus on Data Science and Data Visualization
 
 <img style="float: left;" src="images/LSU_logo.jpg?raw=true" width="30" height="30"/> &nbsp; &nbsp; Mar 2017: **Louisianna State University** <br>
