@@ -1,8 +1,9 @@
-## Education                |        Experiences                 |          Projects          |           Awards
+## [Education](#education)             |        Experiences                 |          Projects          |           Awards
 
 ---
 
-### Category Name 1 
+### Education 
+
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
