@@ -8,7 +8,7 @@
 
 <div style="display:flex; flex-direction:row;">
   <div>
-<img src="images/UCB_logo.png?raw=true" width="30" height="30"/> 
+<img style="float:left" src="images/UCB_logo.png?raw=true" width="30" height="30"/> 
   </div>
  <div> 
 Aug 2019 - May 2020: University of California, Berkeley
