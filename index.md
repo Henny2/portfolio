@@ -11,11 +11,11 @@
 <img style="float: left;" src="images/UCB_logo.png?raw=true" width="30" height="30"/>
 
 [Louisianna State University](/pdf/sample_presentation.pdf)
-<img src="images/LSU_logo.jpg?raw=true" />
+<img src="images/LSU_logo.jpg?raw=true" width="30" height="30"/>
 
 ---
 [Technical University Braunschweig](http://example.com/)
-<img src="images/TUBS_round.png?raw=true"/>
+<img src="images/TUBS_round.png?raw=true" width="30" height="30"/>
 
 ---
 
