@@ -7,7 +7,7 @@
 ### Education 
 
 
-<div style="display: flex; flex-direction: vertical">
+<div style="display: flex; flex-direction: horizontal">
   <div>
 <img style="float: left;" src="images/UCB_logo.png?raw=true" width="30" height="30"/>
   </div>
