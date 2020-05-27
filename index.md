@@ -42,7 +42,7 @@ Bachelor of Science in Industrial Engineering (summa cum laude)<br>
 Focus in Automation, Logistics and Operations Research
   </div>
 </div>
-
+<br>
 ---
 
 [UC Berkeley](/sample_page) 
