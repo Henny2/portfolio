@@ -6,7 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Second description 
   <br><br>
   <a href='https://www.linkedin.com/in/henrieke-baunack'>
-  <img src="images/instagram.png?raw=true" width="30" height="30">
+  <img src="images/linkedin.png?raw=true" width="30" height="30">
   </a>
   
 theme: jekyll-theme-minimal
