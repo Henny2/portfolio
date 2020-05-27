@@ -11,12 +11,12 @@
                          &nbsp; &nbsp;&nbsp;   &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; Master in Engineering in [Industrial Engineering and Operations Research](https://ieor.berkeley.edu/master-of-engineering-program/#programoverview)  <br>
                           &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Focus on Data Science and Data Visualization
  
-<img src="images/LSU_logo.jpg?raw=true" width="30" height="30"/>
+<img style="float: left;" src="images/LSU_logo.jpg?raw=true" width="30" height="30"/>
 
 [Louisianna State University](/pdf/sample_presentation.pdf)
 
 
-<img src="images/TUBS_round.png?raw=true" width="30" height="30"/>
+<img style="float: left;"src="images/TUBS_round.png?raw=true" width="30" height="30"/>
 
 [Technical University Braunschweig](http://example.com/)
 
