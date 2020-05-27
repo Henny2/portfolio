@@ -6,11 +6,15 @@
 
 ### Education 
 
-
+<div style="display: flex, flex-direction:row">
+  <div>
 <img style="float: left;" src="images/UCB_logo.png?raw=true" width="30" height="30"/> &nbsp; &nbsp; Aug 2019 - May 2020: **University of California, Berkeley** <br>
+  </div>
+  <div>
                          &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; Master in Engineering in [Industrial Engineering and Operations Research](https://ieor.berkeley.edu/master-of-engineering-program/#programoverview)  <br>
                           &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Focus on Data Science and Data Visualization
- 
+  </div>
+ </div>
 <img style="float: left;" src="images/LSU_logo.jpg?raw=true" width="30" height="30"/> &nbsp; &nbsp; Mar 2017: **Louisianna State University** <br>
 Fulbright short time program ["Leaders in Entrepreneurship](https://www.fulbright.de/programs-for-germans/studierende-und-graduierte/leaders-in-entrepreneurship) <br>
 Classes in entrepreneurship, sales and finance
