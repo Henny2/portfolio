@@ -7,7 +7,7 @@
 ### Education 
 
 
-<img style="float: left;" src="images/UCB_2.png?raw=true" width="30" height="30"/> &nbsp; &nbsp; Aug 2019 - May 2020: **University of California, Berkeley** <br> 
+<img style="float: left;" src="images/UCB_2.png?raw=true" width="30" height="60"/> &nbsp; &nbsp; Aug 2019 - May 2020: **University of California, Berkeley** <br> 
 <div style ="float:right">
 &nbsp; &nbsp; Master in Engineering in [Industrial Engineering and Operations Research](https://ieor.berkeley.edu/master-of-engineering-program/#programoverview)  <br>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Focus on Data Science and Data Visualization
