@@ -8,14 +8,14 @@
 
 
 [UC Berkeley](/sample_page)
-<img src="images/UCB_logo.png?raw=true" width="30" height="30/>
+<img src="images/UCB_logo.png?raw=true" />
 
 [Louisianna State University](/pdf/sample_presentation.pdf)
-<img src="images/LSU_logo.jpg?raw=true" width="30" height="30/>
+<img src="images/LSU_logo.jpg?raw=true" />
 
 ---
 [Technical University Braunschweig](http://example.com/)
-<img src="images/TUBS_round.png?raw=true" width="30" height="30/>
+<img src="images/TUBS_round.png?raw=true"/>
 
 ---
 
