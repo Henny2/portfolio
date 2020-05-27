@@ -11,7 +11,7 @@
 <img style="float:left" src="images/UCB_logo.png?raw=true" width="30" height="30"/> 
   </div>
  <div style="margin-left:1em"> 
-Aug 2019 - May 2020: University of California, Berkeley
+   Aug 2019 - May 2020: <span style="font-weight: bold"> University of California, Berkeley </span>
    <br>
 Master in Engineering in Industrial Engineering and Operations Research 
    <br>
@@ -19,9 +19,6 @@ Focus on Data Science and Data Visualization
   </div>
 </div>
 
-<img style="float: left;" src="images/UCB_logo.png?raw=true" width="30" height="30"/> &nbsp; &nbsp; Aug 2019 - May 2020: **University of California, Berkeley** <br> 
-&nbsp; &nbsp; Master in Engineering in Industrial Engineering and Operations <br> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Research  <br>
-&nbsp; &nbsp; &nbsp; &nbsp; Focus on Data Science and Data Visualization
 
 <img style="float: left;" src="images/LSU_logo.jpg?raw=true" width="30" height="30"/> &nbsp; &nbsp; Mar 2017: **Louisianna State University** <br>
 &nbsp; &nbsp; Fulbright short time program ["Leaders in Entrepreneurship"](https://www.fulbright.de/programs-for-germans/studierende-und-graduierte/leaders-in-entrepreneurship) <br>
