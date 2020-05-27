@@ -18,7 +18,7 @@ Master in Engineering in Industrial Engineering and Operations Research
 Focus on Data Science and Data Visualization
   </div>
 </div>
-
+<br>
 <div style="display:flex; flex-direction:row;">
   <div style="flex: 0 0 30px;" >
 <img style="float:left" src="images/LSU_logo.jpg?raw=true" width="30" height="30"/> 
@@ -30,7 +30,7 @@ Focus on Data Science and Data Visualization
 Classes in entrepreneurship, sales and finance
   </div>
 </div>
-
+<br>
 <div style="display:flex; flex-direction:row;">
   <div style="flex: 0 0 30px;" >
 <img style="float:left" src="images/TUBS_round.png?raw=true" width="30" height="30"/> 
