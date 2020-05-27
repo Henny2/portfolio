@@ -5,6 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Second description 
   <br><br>
+  <div style ="align: centered">
   <a href='https://www.linkedin.com/in/henrieke-baunack'>
   <img src="images/linkedin.png?raw=true" width="30" height="30">
   </a>
@@ -16,6 +17,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href='https://github.com/Henny2'>
   <img src="images/github.png?raw=true" width="30" height="30">
   </a>
+  </div>
   
   
 theme: jekyll-theme-minimal
