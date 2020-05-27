@@ -7,16 +7,15 @@
 ### Education 
 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[UC Berkeley](/sample_page)
+<img src="images/UCB_logo.png?raw=true"/>
+
+[Louisianna State University](/pdf/sample_presentation.pdf)
+<img src="images/LSU_logo.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Technical University Braunschweig](http://example.com/)
+<img src="images/TUBS_logo.png?raw=true"/>
 
 ---
 
