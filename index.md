@@ -6,6 +6,16 @@
 
 ### Education 
 
+<div>
+  <div>
+<img style="float: left;" src="images/UCB_logo.png?raw=true" width="30" height="30"/> 
+  </div>
+ <div> 
+Aug 2019 - May 2020: University of California, Berkeley
+Master in Engineering in Industrial Engineering and Operations Research  
+Focus on Data Science and Data Visualization
+  </div>
+</div>
 
 <img style="float: left;" src="images/UCB_logo.png?raw=true" width="30" height="30"/> &nbsp; &nbsp; Aug 2019 - May 2020: **University of California, Berkeley** <br> 
 &nbsp; &nbsp; Master in Engineering in Industrial Engineering and Operations <br> &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; Research  <br>
