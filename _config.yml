@@ -5,7 +5,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Second description 
   <br><br>
-  <div style ="align: centered">
+  <div style ="margin-left: auto;
+  margin-right: auto;">
   <a href='https://www.linkedin.com/in/henrieke-baunack'>
   <img src="images/linkedin.png?raw=true" width="30" height="30">
   </a>
