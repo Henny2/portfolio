@@ -1,4 +1,4 @@
-## [Education](#education)             |        Experiences                 |          Projects          |           Awards
+## [Education](#education)|[Experiences](#experiences)|[Projects](#projects)|[Awards](#awards)
 
 ---
 
@@ -18,7 +18,16 @@
 
 ---
 
-### Category Name 2
+### Experiences
+
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
+
+---
+### Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -28,7 +37,13 @@
 
 ---
 
+### Awards
 
+- [Project 1 Title](http://example.com/)
+- [Project 2 Title](http://example.com/)
+- [Project 3 Title](http://example.com/)
+- [Project 4 Title](http://example.com/)
+- [Project 5 Title](http://example.com/)
 
 
 ---
