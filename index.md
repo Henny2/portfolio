@@ -12,7 +12,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; Focus on Data Science and Data Visualization
 
 <img style="float: left;" src="images/LSU_logo.jpg?raw=true" width="30" height="30"/> &nbsp; &nbsp; Mar 2017: **Louisianna State University** <br>
-Fulbright short time program ["Leaders in Entrepreneurship](https://www.fulbright.de/programs-for-germans/studierende-und-graduierte/leaders-in-entrepreneurship) <br>
+Fulbright short time program ["Leaders in Entrepreneurship"](https://www.fulbright.de/programs-for-germans/studierende-und-graduierte/leaders-in-entrepreneurship) <br>
 Classes in entrepreneurship, sales and finance
 
 
