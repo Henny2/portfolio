@@ -13,7 +13,7 @@
  <div style="margin-left:1em"> 
    Aug 2019 - May 2020: <span style="font-weight: bold"> University of California, Berkeley </span>
    <br>
-Master in Engineering in Industrial Engineering and Operations Research 
+Master of Engineering in Industrial Engineering and Operations Research 
    <br>
 Focus on Data Science and Data Visualization
   </div>
@@ -46,14 +46,12 @@ Focus in Automation, Logistics and Operations Research
 
 ---
 
-[UC Berkeley](/sample_page) 
-[Louisianna State University](/pdf/sample_presentation.pdf)
 ### Experiences
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
+- [Glooko](https://www.glooko.com): Data Scientist and Project Manager for the curriculum integrated capstone project 
+- [Audi](https://www.audi.com/en.html): Intern for Operations Research in the Logistics Department 
+- [T-Systems](https://www.t-systems.com/de/en#About%20T-Systems): Software development intern
+- [StudING Braunschweig](https://studing.org): 
 - [Project 5 Title](http://example.com/)
 
 ---
@@ -65,6 +63,9 @@ Focus in Automation, Logistics and Operations Research
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
+
+[UC Berkeley](/sample_page) 
+[Louisianna State University](/pdf/sample_presentation.pdf)
 ---
 
 ### Awards
