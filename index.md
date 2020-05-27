@@ -10,7 +10,7 @@
   <div style="width:30px" >
 <img style="float:left" src="images/UCB_logo.png?raw=true" width="30" height="30"/> 
   </div>
- <div> 
+ <div style="margin-left:1em"> 
 Aug 2019 - May 2020: University of California, Berkeley
    <br>
 Master in Engineering in Industrial Engineering and Operations Research 
