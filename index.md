@@ -46,11 +46,12 @@
 
 ### Awards
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- 2019-2020: MEng Opportunity Grant, UC Berkeley 
+- 2019-2020: Stipend for studies abroad, German Academic Exchange Service (DAAD)
+- 11/2018: Bachelor thesis award, Gesellschaft für Operations Research
+- 03/2017: „Leaders in Entrepreneurship“ program, Fulbright Scholarship
+- 03/2017: First place at the startup weekend Baton Rouge
+- 2017-2018: "Deutschlandstipendium, performance-based scholarship
 
 
 ---
