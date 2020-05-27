@@ -1,4 +1,4 @@
-## Portfolio                        Education                           Projects 
+## Portfolio                |        Education                 |          Projects 
 
 ---
 
