@@ -8,7 +8,7 @@
 
 
 [UC Berkeley](/sample_page)
-<img src="images/UCB_logo.png?raw=true" />
+<img style="float: left;" src="images/UCB_logo.png?raw=true" width="30" height="30"/>
 
 [Louisianna State University](/pdf/sample_presentation.pdf)
 <img src="images/LSU_logo.jpg?raw=true" />
