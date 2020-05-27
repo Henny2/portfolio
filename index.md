@@ -12,7 +12,9 @@
   </div>
  <div> 
 Aug 2019 - May 2020: University of California, Berkeley
-Master in Engineering in Industrial Engineering and Operations Research  
+   <br>
+Master in Engineering in Industrial Engineering and Operations Research 
+   <br>
 Focus on Data Science and Data Visualization
   </div>
 </div>
