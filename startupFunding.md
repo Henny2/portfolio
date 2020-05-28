@@ -1,4 +1,4 @@
-##### [Back](index)
+##### [Back](index#projects)
 # Data visualization - Global Startup Funding
 
 For the final project in my Data Viz class, my team partner and I worked with a datset about startup investments. To narrow down our scope we decided to focus on unicorn startups (i.e. startups with an evaluation above 1 Billion Dollar) and enable the user of our website to explore the investment trends. 
