@@ -59,7 +59,7 @@ Focus in Automation, Logistics and Operations Research
 - [Investigating the impact of clinician's behavior on patients diabetes management](glooko)
 - [Data visualization - Global Startup Funding](startupFunding)
 - [Makeover Monday's](makeovermonday)
-- [Why networking works](https://observablehq.com/@henny2/networking-works)
+- [Why networking works](https://observablehq.com/@henny2/networking-works){:target="_blank"}
 - [Webcrawling](webcrawler)
 
 ---
