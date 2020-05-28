@@ -56,11 +56,11 @@ Focus in Automation, Logistics and Operations Research
 ---
 ### Projects
 
-- [Investing the impact of clinician's behavior patients diabetes management](/glooko)
+- [Investigating the impact of clinician's behavior patients diabetes management](/glooko)
 - [Data visualization - Global Startup Funding](/startupFunding)
 - [Makeover Monday's](/makeovermonday)
 - [Why networking works](/networkingD3)
-
+- [Webcrawling](/webcrawler)
 
 [UC Berkeley](/sample_page) 
 [Louisianna State University](/pdf/sample_presentation.pdf)
