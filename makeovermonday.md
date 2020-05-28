@@ -1,4 +1,4 @@
-##### [Back](index)
+##### [Back](index#projects)
 ## Makeover Monday's
 I got introduced to Makeover Monday in my Data Viz class at UC Berkeley. Under the hashtag #makeovermonday, people from all over the world redesign one particular visualization every week. This visualization is picked by Eva Murray and Andy Kriebel, two data viz gurus, with the intention to create a learning, better visualizations and an exchange about best practices.
 
