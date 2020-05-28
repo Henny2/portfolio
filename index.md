@@ -1,6 +1,6 @@
 # About me
 
-## [Education](#education)|[Experiences](#experiences)|[Projects](#projects)|[Awards](#awards)
+## [Education](#education)|[Experiences](#experiences)|[Projects](#projects)|[Awards](#awards)|[Resume](/pdf/Resume.pdf)
 
 ---
 
@@ -62,8 +62,6 @@ Focus in Automation, Logistics and Operations Research
 - [Why networking works](https://observablehq.com/@henny2/networking-works)
 - [Webcrawling](webcrawler)
 
-[UC Berkeley](/sample_page) 
-[Louisianna State University](/pdf/sample_presentation.pdf)
 ---
 
 ### Awards
