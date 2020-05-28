@@ -1,7 +1,7 @@
 ##### [Back](index)
 ## Investigating the impact of clinician's behavior patients diabetes management
 
-As part of my Master of Engineering program at UC Berkeley, I was working on a industry based Capstone project with three of my colleagues. The following abstract and poster summarizes our work in collaboration with Glooko.
+As part of my Master of Engineering program at UC Berkeley, I was working on a industry based Capstone project with three of my colleagues. The following abstract and poster summarizes our work in collaboration with [Glooko](https://www.glooko.com).
 
 #### Summary
 Blood glucose management for an individual is far from a perfect system. The
