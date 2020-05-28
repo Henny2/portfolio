@@ -48,10 +48,10 @@ Focus in Automation, Logistics and Operations Research
 
 ### Experiences
 
-- [Glooko](https://www.glooko.com): Data Scientist and Project Manager for the curriculum integrated Capstone Project 
-- [Audi](https://www.audi.com/en.html): Intern for Operations Research in the Logistics Department 
-- [T-Systems](https://www.t-systems.com/de/en#About%20T-Systems): Software Development Intern
-- [StudING Braunschweig](https://studing.org): Manager and Head of Human Resources
+- [Glooko](https://www.glooko.com){:target="_blank"}: Data Scientist and Project Manager for the curriculum integrated Capstone Project 
+- [Audi](https://www.audi.com/en.html){:target="_blank"}: Intern for Operations Research in the Logistics Department 
+- [T-Systems](https://www.t-systems.com/de/en#About%20T-Systems){:target="_blank"}: Software Development Intern
+- [StudING Braunschweig](https://studing.org){:target="_blank"}: Manager and Head of Human Resources
 
 ---
 ### Projects
