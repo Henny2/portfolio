@@ -48,9 +48,7 @@ Focus in Automation, Logistics and Operations Research
 
 ### Experiences
 
-- [Glooko](https://www.glooko.com), Sep 2019 - May 2020
-
-    Data Scientist and Project Manager for the curriculum integrated capstone project 
+- [Glooko](https://www.glooko.com): Data Scientist and Project Manager for the curriculum integrated capstone project 
 - [Audi](https://www.audi.com/en.html): Intern for Operations Research in the Logistics Department 
 - [T-Systems](https://www.t-systems.com/de/en#About%20T-Systems): Software development intern
 - [StudING Braunschweig](https://studing.org): Manager and head of Human Resources
@@ -58,11 +56,10 @@ Focus in Automation, Logistics and Operations Research
 ---
 ### Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Investing the impact of clinician's behavior patients diabetes management](/glooko)
+- [Data visualization - Global Startup Funding](/startupFunding)
+- [Makeover Monday's](/makeovermonday)
+- [Why networking works](/networkingD3)
 
 
 [UC Berkeley](/sample_page) 
