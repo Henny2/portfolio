@@ -1,6 +1,6 @@
 # About me
 
-## [Education](#education)|[Experiences](#experiences)|[Projects](#projects)|[Awards](#awards)|[Resume](/pdf/Resume.pdf)
+## [Education](#education)|[Experience](#experience)|[Projects](#projects)|[Awards](#awards)|[Resume](/pdf/Resume.pdf)
 
 ---
 
@@ -46,7 +46,7 @@ Focus in Automation, Logistics and Operations Research
 
 ---
 
-### Experiences
+### Experience
 
 - [Glooko](https://www.glooko.com){:target="_blank"}: Data Scientist and Project Manager for the curriculum integrated Capstone Project 
 - [Audi](https://www.audi.com/en.html){:target="_blank"}: Intern for Operations Research in the Logistics Department 
@@ -58,7 +58,7 @@ Focus in Automation, Logistics and Operations Research
 
 - [Investigating the impact of clinician's behavior on patients diabetes management](glooko)
 - [Data visualization - Global Startup Funding](startupFunding)
-- [Makeover Monday's](makeovermonday)
+- [Makeover Mondays](makeovermonday)
 - [Why networking works](https://observablehq.com/@henny2/networking-works){:target="_blank"}
 - [Webcrawling](webcrawler)
 
