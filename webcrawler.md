@@ -1,7 +1,7 @@
 ##### [Back](index#projects)
 # Webcrawling Projects
 
-Last fall, as we had to choose projects for a Machine Learning project, I would have loved to be as experienced with Web Crawling as I am now. At some point I made my first steps with Beautifulsoup but never actually crawled a complete data set. It was last March when my team and I had to crawl hotel and restaurant reviews from tripadvisor for another school project. I saw that as my chance to get some web crawling experience. 
+Last fall, as we had to choose projects for a Machine Learning project, I would have loved to be as experienced with Web Crawling as I am now. At some point I made my first steps with Beautifulsoup but never actually crawled a complete data set. It was last March when my team and I had to crawl hotel and restaurant reviews from tripadvisor for another school project. I saw that as my chance to get some web crawling experience and wrote a webcrawler to get reviews of restaurants in San Francisco. 
 
 <img src="images/Thumbnail_Tripadvisor.png">
 
