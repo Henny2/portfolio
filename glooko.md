@@ -16,5 +16,6 @@ potential for the future work on this dataset.
 
 #### Project Poster
 
+<a href="pdf/capstone_poster.pdf">
 <img src="pdf/capstone_poster.pdf">
-
+</a>
