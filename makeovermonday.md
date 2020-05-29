@@ -8,20 +8,21 @@ My goal is to participate in more #makeovermondays to improve my design and tabl
 
 ### Week 8: Housing outcomes for clients of Australian Specialist Homelessness Services
 
-Data Set and Visualization can be found on [data.world](https://data.world/makeovermonday/2020w8)
+Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w8)
 
-PICTURE
-
-
+<a href="https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w8_HomelessnessAustralia/Dashboard1">
+  <img src="images/makeovermonday/MoM_housing">
+</a>
 
 Data Source: [AIHW Specialist homelessness services annual report 2017–18](https://www.aihw.gov.au/reports/homelessness-services/specialist-homelessness-services-2017-18/data)
 
 
 ### Week 9: Costing Kids Sleep
 
-Data Set and Visualization can be found on [data.world](https://data.world/makeovermonday/2020w9)
+Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w9)
 
-PICTURE
-https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w9_SleepData/Dashboard2
+<a href="https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w9_SleepData/Dashboard2">
+  <img src="images/makeovermonday/MoM_sleep">
+</a>
 
 Data Source: [Costing Kids Sleep](https://savvysleeper.org/costing-kids-sleep/)
