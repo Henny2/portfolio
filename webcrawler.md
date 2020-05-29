@@ -8,6 +8,7 @@ Last fall, as we had to choose projects for a Machine Learning project, I would 
 Crawled Data Set:
   - 1857 reviews
   - 258 restaurants
+  
 <img src="images/tripadvisor.png">
 
 Since then I have been pretty confident in crawling the web for data on static websites and was able to scrape data that would have helped realize some ideas my team partner and I had for our [data viz project](startupFunding) along the way. 
