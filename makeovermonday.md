@@ -6,7 +6,7 @@ I participated for the first time in week 8 of this year and really enjoyed bein
 My goal is to participate in more #makeovermondays to improve my design and tableau skills.
 
 
-### Week 8: Housing outcomes for clients of Australian Specialist Homelessness Services
+#### Week 8: Housing outcomes for clients of Australian Specialist Homelessness Services
 
 Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w8)
 
@@ -17,7 +17,7 @@ Data Set and picked Visualization can be found on [data.world](https://data.worl
 Data Source: [AIHW Specialist homelessness services annual report 2017–18](https://www.aihw.gov.au/reports/homelessness-services/specialist-homelessness-services-2017-18/data)
 
 
-### Week 9: Costing Kids Sleep
+#### Week 9: Costing Kids Sleep
 
 Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w9)
 
