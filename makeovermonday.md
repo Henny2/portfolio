@@ -11,7 +11,7 @@ My goal is to participate in more #makeovermondays to improve my design and tabl
 Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w8)
 
 <a href="https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w8_HomelessnessAustralia/Dashboard1">
-  <img src="images/makeovermonday/MoM_housing">
+  <img src="images/makeovermonday/MoM_Housing.png">
 </a>
 
 Data Source: [AIHW Specialist homelessness services annual report 2017–18](https://www.aihw.gov.au/reports/homelessness-services/specialist-homelessness-services-2017-18/data)
@@ -22,7 +22,7 @@ Data Source: [AIHW Specialist homelessness services annual report 2017–18](htt
 Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w9)
 
 <a href="https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w9_SleepData/Dashboard2">
-  <img src="images/makeovermonday/MoM_sleep">
+  <img src="images/makeovermonday/MoM_Sleep.png">
 </a>
 
 Data Source: [Costing Kids Sleep](https://savvysleeper.org/costing-kids-sleep/)
