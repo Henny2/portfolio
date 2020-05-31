@@ -23,7 +23,7 @@ Data Set and picked Visualization can be found on [data.world](https://data.worl
 
 [My redesign](https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w9_SleepData/Dashboard2){:target="_blank"}:
 
-<a href="https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w9_SleepData/Dashboard2">
+<a href="https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w9_SleepData/Dashboard2" target="blank">
   <img src="images/makeovermonday/MoM_Sleep.png">
 </a>
 
@@ -35,7 +35,7 @@ Data Set and picked Visualization can be found on [data.world](https://data.worl
 
 [My redesign](https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w8_HomelessnessAustralia/Dashboard1){:target="_blank"}:
 
-<a href="https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w8_HomelessnessAustralia/Dashboard1">
+<a href="https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w8_HomelessnessAustralia/Dashboard1" target="blank">
   <img src="images/makeovermonday/MoM_Housing.png">
 </a>
 
