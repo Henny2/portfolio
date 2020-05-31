@@ -9,10 +9,10 @@ My goal is to participate in more #makeovermondays to improve my design and tabl
 
 Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w21-visualizing-40-years-of-music-industry-sales){:target="_blank"}
 
-[My redesign](https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w21_MusicSales/Dashboard1){:target="_blank"}:
+[My redesign](https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w21_MusicSales/SecondDesign?publish=yes){:target="_blank"}:
 
-<a href="https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w21_MusicSales/Dashboard1">
-  <img src="images/makeovermonday/MoM_Music.png">
+<a href="https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w21_MusicSales/SecondDesign?publish=yes" target="blank">
+  <img src="images/makeovermonday/MoM_Music2.png">
 </a>
 
 Data Source: [RIAA](https://www.riaa.com/u-s-sales-database/){:target="_blank"}
