@@ -5,6 +5,29 @@ I got introduced to [Makeover Monday](https://www.makeovermonday.co.uk) in my Da
 I participated for the first time in week 8 of this year and really enjoyed being part of the Makeover Monday community and working on a specific dataset along professionals and data viz beginners like me.  
 My goal is to participate in more #makeovermondays to improve my design and tableau skills.
 
+#### Week 21: Visualising 40 Years of Music Industry Sales
+
+Data Set and picked Visualization can be found on [data.world]https://data.world/makeovermonday/2020w21-visualizing-40-years-of-music-industry-sales){:target="_blank"}
+
+[My redesign](https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w21_MusicSales/Dashboard1){:target="_blank"}:
+
+<a href="https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w21_MusicSales/Dashboard1">
+  <img src="images/makeovermonday/MoM_Music.png">
+</a>
+
+Data Source: [RIAA](https://www.riaa.com/u-s-sales-database/){:target="_blank"}
+
+#### Week 9: Costing Kids Sleep
+
+Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w9){:target="_blank"}
+
+[My redesign](https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w9_SleepData/Dashboard2){:target="_blank"}:
+
+<a href="https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w9_SleepData/Dashboard2">
+  <img src="images/makeovermonday/MoM_Sleep.png">
+</a>
+
+Data Source: [Costing Kids Sleep](https://savvysleeper.org/costing-kids-sleep/){:target="_blank"}
 
 #### Week 8: Housing outcomes for clients of Australian Specialist Homelessness Services
 
@@ -19,14 +42,4 @@ Data Set and picked Visualization can be found on [data.world](https://data.worl
 Data Source: [AIHW Specialist homelessness services annual report 2017–18](https://www.aihw.gov.au/reports/homelessness-services/specialist-homelessness-services-2017-18/data){:target="_blank"}
 
 
-#### Week 9: Costing Kids Sleep
 
-Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w9){:target="_blank"}
-
-[My redesign](https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w9_SleepData/Dashboard2){:target="_blank"}:
-
-<a href="https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w9_SleepData/Dashboard2">
-  <img src="images/makeovermonday/MoM_Sleep.png">
-</a>
-
-Data Source: [Costing Kids Sleep](https://savvysleeper.org/costing-kids-sleep/){:target="_blank"}
