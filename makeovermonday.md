@@ -7,7 +7,7 @@ My goal is to participate in more #makeovermondays to improve my design and tabl
 
 #### Week 21: Visualising 40 Years of Music Industry Sales
 
-Data Set and picked Visualization can be found on [data.world]https://data.world/makeovermonday/2020w21-visualizing-40-years-of-music-industry-sales){:target="_blank"}
+Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w21-visualizing-40-years-of-music-industry-sales){:target="_blank"}
 
 [My redesign](https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w21_MusicSales/Dashboard1){:target="_blank"}:
 
