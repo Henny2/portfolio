@@ -5,6 +5,18 @@ I got introduced to [Makeover Monday](https://www.makeovermonday.co.uk) in my Da
 I participated for the first time in week 8 of this year and really enjoyed being part of the Makeover Monday community and working on a specific dataset along professionals and data viz beginners like me.  
 My goal is to participate in more #makeovermondays to improve my design and tableau skills.
 
+#### Week 22: Safe Houses: Places of Sanctuary for Girls and Women At Risk of FGM, [#Viz5](https://www.makeovermonday.co.uk/viz5/)
+
+Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w22/){:target="_blank"}
+
+[My redesign](https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w22_FGM/Dashboard1?publish=yes){:target="_blank"}:
+
+<a href="https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w22_FGM/Dashboard1?publish=yes" target="blank">
+  <img src="images/makeovermonday/MoM_w22_FGM.png">
+</a>
+
+Data Source: [Hope for Girls and Women Tanzania](https://hopeforgirlsandwomen.com/safe-houses/){:target="_blank"}
+
 #### Week 21: Visualising 40 Years of Music Industry Sales
 
 Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w21-visualizing-40-years-of-music-industry-sales){:target="_blank"}
