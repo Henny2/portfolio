@@ -5,7 +5,9 @@ I got introduced to [Makeover Monday](https://www.makeovermonday.co.uk) in my Da
 I participated for the first time in week 8 of this year and really enjoyed being part of the Makeover Monday community and working on a specific dataset along professionals and data viz beginners like me.  
 My goal is to participate in more #makeovermondays to improve my design and tableau skills.
 
-#### Week 22: Safe Houses: Places of Sanctuary for Girls and Women At Risk of FGM, [#Viz5](https://www.makeovermonday.co.uk/viz5/)
+<br>
+
+### Week 22: Safe Houses: Places of Sanctuary for Girls and Women At Risk of FGM, [#Viz5](https://www.makeovermonday.co.uk/viz5/)
 
 Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w22/){:target="_blank"}
 
@@ -17,7 +19,9 @@ Data Set and picked Visualization can be found on [data.world](https://data.worl
 
 Data Source: [Hope for Girls and Women Tanzania](https://hopeforgirlsandwomen.com/safe-houses/){:target="_blank"}
 
-#### Week 21: Visualising 40 Years of Music Industry Sales
+<br>
+
+### Week 21: Visualising 40 Years of Music Industry Sales
 
 Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w21-visualizing-40-years-of-music-industry-sales){:target="_blank"}
 
@@ -29,7 +33,9 @@ Data Set and picked Visualization can be found on [data.world](https://data.worl
 
 Data Source: [RIAA](https://www.riaa.com/u-s-sales-database/){:target="_blank"}
 
-#### Week 9: Costing Kids Sleep
+<br>
+
+### Week 9: Costing Kids Sleep
 
 Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w9){:target="_blank"}
 
@@ -41,7 +47,9 @@ Data Set and picked Visualization can be found on [data.world](https://data.worl
 
 Data Source: [Costing Kids Sleep](https://savvysleeper.org/costing-kids-sleep/){:target="_blank"}
 
-#### Week 8: Housing outcomes for clients of Australian Specialist Homelessness Services
+<br>
+
+### Week 8: Housing outcomes for clients of Australian Specialist Homelessness Services
 
 Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w8){:target="_blank"}
 
