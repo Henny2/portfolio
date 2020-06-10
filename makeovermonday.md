@@ -7,6 +7,20 @@ My goal is to participate in more #makeovermondays to improve my design and tabl
 
 <br>
 
+### Week 23: Animal-free products consumption in Great Britain
+
+Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w23-animal-free-products-consumption-in-great-britain){:target="_blank"}
+
+[My redesign](https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w23_MeatSubstitutes/finalDashboard){:target="_blank"}:
+
+<a href="https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w23_MeatSubstitutes/finalDashboard" target="blank">
+  <img src="images/makeovermonday/MoM_w23_MeatSubstitutes.png">
+</a>
+
+Data Source: [Statista](https://www.statista.com/statistics/1065843/animal-free-products-consumption-frequency-in-great-britain-by-eating-habits/){:target="_blank"}
+
+<br>
+
 ### Week 22: Safe Houses: Places of Sanctuary for Girls and Women At Risk of FGM, [#Viz5](https://www.makeovermonday.co.uk/viz5/)
 
 Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w22/){:target="_blank"}
