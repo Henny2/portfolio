@@ -7,7 +7,7 @@ My goal is to participate in more #makeovermondays to improve my design and tabl
 
 <br>
 
-### Week 24: High School sports in the US
+### Week 24: High School Sports in the US
 
 Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w24){:target="_blank"}
 
