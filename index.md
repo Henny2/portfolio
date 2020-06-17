@@ -3,6 +3,7 @@
 ## [Education](#education)|[Experience](#experience)|[Projects](#projects)|[Awards](#awards)|[Resume](/pdf/Resume.pdf)
 
 ---
+
 ### Latest Updates
 <div style="display:flex; flex-direction:row;">
   <div style="flex: 0 0 30px;" >
@@ -12,7 +13,9 @@
  Added this week's #makeovermonday submission. Check out my new design <a href="https://henny2.github.io/portfolio/makeovermonday"> here</a>.
 </div>
 </div>
+
 ---
+
 ### Education 
 
 <div style="display:flex; flex-direction:row;">
