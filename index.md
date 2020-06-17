@@ -13,6 +13,7 @@
  Added this week's #makeovermonday submission. Check out my new design <a href="https://henny2.github.io/portfolio/makeovermonday"> here</a>.
 </div>
 </div>
+<br>
 
 ---
 
