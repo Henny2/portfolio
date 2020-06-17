@@ -7,6 +7,20 @@ My goal is to participate in more #makeovermondays to improve my design and tabl
 
 <br>
 
+### Week 24: High School sports in the US
+
+Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w24){:target="_blank"}
+
+[My redesign](https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w24_HighSchoolSports/FinalDashboard){:target="_blank"}:
+
+<a href="https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w24_HighSchoolSports/FinalDashboard" target="blank">
+  <img src="images/makeovermonday/MoM_w24_HighSchoolSports.png">
+</a>
+
+Data Source: [NFHS Participation rates](https://members.nfhs.org/participation_statistics){:target="_blank"}
+
+<br>
+
 ### Week 23: Animal-free products consumption in Great Britain
 
 Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w23-animal-free-products-consumption-in-great-britain){:target="_blank"}
