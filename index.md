@@ -1,6 +1,6 @@
 # About me
 
-## [Latest Updates](#latest updates)|[Education](#education)|[Experience](#experience)|[Projects](#projects)|[Awards](#awards)|[Resume](/pdf/Resume.pdf)
+## [Latest Updates](#latestupdates)|[Education](#education)|[Experience](#experience)|[Projects](#projects)|[Awards](#awards)|[Resume](/pdf/Resume.pdf)
 
 ---
 ### Latest Updates
