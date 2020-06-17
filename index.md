@@ -11,6 +11,7 @@
  <div style="margin-left:1em"> 
  Added this week's #makeovermonday submission. Check out my new design <a href=makeovermonday> here </a>.
 </div>
+
 ### Education 
 
 <div style="display:flex; flex-direction:row;">
