@@ -1,9 +1,16 @@
 # About me
 
-## [Education](#education)|[Experience](#experience)|[Projects](#projects)|[Awards](#awards)|[Resume](/pdf/Resume.pdf)
+## [Latest Updates](#latest updates)|[Education](#education)|[Experience](#experience)|[Projects](#projects)|[Awards](#awards)|[Resume](/pdf/Resume.pdf)
 
 ---
-
+### Latest Updates
+<div style="display:flex; flex-direction:row;">
+  <div style="flex: 0 0 30px;" >
+6/17/2020:
+  </div>
+ <div style="margin-left:1em"> 
+ Added this week's #makeovermonday submission. Check out my new design <a href=makeovermonday> here </a>.
+</div>
 ### Education 
 
 <div style="display:flex; flex-direction:row;">
