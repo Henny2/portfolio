@@ -9,10 +9,10 @@
 6/17/2020:
   </div>
  <div style="margin-left:1em"> 
- Added this week's #makeovermonday submission. Check out my new design <a href=makeovermonday> here </a>.
+ Added this week's #makeovermonday submission. Check out my new design <a href="https://henny2.github.io/portfolio/makeovermonday"> here</a>.
 </div>
 </div>
-
+---
 ### Education 
 
 <div style="display:flex; flex-direction:row;">
