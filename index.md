@@ -7,6 +7,15 @@
 ### Latest Updates
 <div style="display:flex; flex-direction:row;">
   <div style="flex: 0 0 30px;" >
+6/24/2020:
+  </div>
+ <div style="margin-left:1em"> 
+ It's week 25 of the #makeovermonday project. This week, it focuses on Amazon's Sales and Profit. Check it out<a href="https://henny2.github.io/portfolio/makeovermonday"> here</a>.
+</div>
+</div>
+<br>
+<div style="display:flex; flex-direction:row;">
+  <div style="flex: 0 0 30px;" >
 6/17/2020:
   </div>
  <div style="margin-left:1em"> 
