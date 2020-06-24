@@ -7,6 +7,20 @@ My goal is to participate in more #makeovermondays to improve my design and tabl
 
 <br>
 
+### Week 25: Amazon’s tiny profits, explained
+
+Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w25-amazons-tiny-profits-explained){:target="_blank"}
+
+[My redesign](https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w25_AmazonProfit/FinalDashboard?publish=yes){:target="_blank"}:
+
+<a href="https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w25_AmazonProfit/FinalDashboard?publish=yes" target="blank">
+  <img src="images/makeovermonday/MoM_w25_AmazonProfit.png">
+</a>
+
+Data Source: [macrotrends.net](https://www.macrotrends.net/stocks/charts/AMZN/amazon/gross-profit){:target="_blank"}
+
+<br>
+
 ### Week 24: High School Sports in the US
 
 Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w24){:target="_blank"}
