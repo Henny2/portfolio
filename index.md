@@ -7,6 +7,15 @@
 ### Latest Updates
 <div style="display:flex; flex-direction:row;">
   <div style="flex: 0 0 30px;" >
+7/05/2020:
+  </div>
+ <div style="margin-left:1em"> 
+ This week it was time for another #viz5, investigating women equality in business. I focused on women in entrepreneuship and created a long viz. Check it out<a href="https://henny2.github.io/portfolio/makeovermonday"> here</a>.
+</div>
+</div>
+<br>
+<div style="display:flex; flex-direction:row;">
+  <div style="flex: 0 0 30px;" >
 6/24/2020:
   </div>
  <div style="margin-left:1em"> 
