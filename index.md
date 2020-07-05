@@ -10,7 +10,7 @@
 7/05/2020:
   </div>
  <div style="margin-left:1em"> 
- This week it was time for another #viz5, investigating women equality in business. I focused on women in entrepreneuship and created a long viz. Check it out<a href="https://henny2.github.io/portfolio/makeovermonday"> here</a>.
+ This week it was time for another #viz5, investigating women equality in business. I focused on women in entrepreneuship and created a long form viz. Check it out<a href="https://henny2.github.io/portfolio/makeovermonday"> here</a>.
 </div>
 </div>
 <br>
