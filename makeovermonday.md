@@ -7,6 +7,20 @@ My goal is to participate in more #makeovermondays to improve my design and tabl
 
 <br>
 
+### Week 26: Economic Empowerment, [#Viz5](https://www.makeovermonday.co.uk/viz5/)
+
+Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w26/){:target="_blank"}
+
+[My redesign](https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w26_WomenInBusiness_V2/Dashboard1){:target="_blank"}:
+
+<a href="https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w26_WomenInBusiness_V2/Dashboard1" target="blank">
+  <img src="images/makeovermonday/MoM_w26_WomenInEntrepreneurship.png">
+</a>
+
+Data Source: [World Bank](https://wbl.worldbank.org/en/wbl-data){:target="_blank"}
+
+<br>
+
 ### Week 25: Amazon’s tiny profits, explained
 
 Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w25-amazons-tiny-profits-explained){:target="_blank"}
