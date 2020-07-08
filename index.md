@@ -1,6 +1,6 @@
 # About me
 
-## [Education](#education)|[Experience](#experience)|[Projects](#projects)|[Awards](#awards)|[Resume](/pdf/Resume.pdf)
+## [Education](#education)|[Experience](#experience)|[Projects](#projects)|[Awards](#awards)|[Resume](/pdf/Resume_HB.pdf)
 
 ---
 
