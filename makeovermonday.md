@@ -7,6 +7,20 @@ My goal is to participate in more #makeovermondays to improve my design and tabl
 
 <br>
 
+### Week 27: Comparing common mental disorder by sex
+
+Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w27-comparing-common-mental-disorder-by-sex){:target="_blank"}
+
+[My redesign](https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w27_MentalHealthUK/FINAL_V2_light){:target="_blank"}:
+
+<a href="https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w27_MentalHealthUK/FINAL_V2_light" target="blank">
+  <img src="images/makeovermonday/MoM_w27_MentalHealthUK.png">
+</a>
+
+Data Source: [NHS Digital](https://digital.nhs.uk/data-and-information/publications/statistical/adult-psychiatric-morbidity-survey/adult-psychiatric-morbidity-survey-survey-of-mental-health-and-wellbeing-england-2014){:target="_blank"}
+
+<br>
+
 ### Week 26: Economic Empowerment, [#Viz5](https://www.makeovermonday.co.uk/viz5/)
 
 Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w26/){:target="_blank"}
