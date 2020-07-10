@@ -7,6 +7,15 @@
 ### Latest Updates
 <div style="display:flex; flex-direction:row;">
   <div style="flex: 0 0 30px;" >
+7/9/2020:
+  </div>
+ <div style="margin-left:1em"> 
+ For week 28 we had a very small data set and it was very easy to draw wrong conclusions. A little bit of back and forth resulted in an easy but nice dumbbell chart. You can find it<a href="https://henny2.github.io/portfolio/makeovermonday"> here</a>.
+</div>
+</div>
+<br>
+<div style="display:flex; flex-direction:row;">
+  <div style="flex: 0 0 30px;" >
 7/5/2020:
   </div>
  <div style="margin-left:1em"> 
