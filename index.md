@@ -19,7 +19,7 @@
 7/9/2020:
   </div>
  <div style="margin-left:1em"> 
- For week 27 we had a very small data set and it was very easy to draw wrong conclusions. A little bit of back and forth resulted in an easy but nice dumbbell chart. You can find it<a href="https://henny2.github.io/portfolio/makeovermonday"> here</a>.
+ For week 27 we had a very small data set and it was very easy to draw wrong conclusions. A little bit of back and forth resulted in an easy but nice dumbbell chart. You can find it<a href="https://henny2.github.io/portfolio/makeovermonday#week-27-comparing-common-mental-disorder-by-sex"> here</a>.
 </div>
 </div>
 <br>
@@ -28,7 +28,7 @@
 7/5/2020:
   </div>
  <div style="margin-left:1em"> 
- This week it was time for another #viz5, investigating gender equality in business. I focused on women in entrepreneuship and created a long form viz. Check it out<a href="https://henny2.github.io/portfolio/makeovermonday"> here</a>.
+ This week it was time for another #viz5, investigating gender equality in business. I focused on women in entrepreneuship and created a long form viz. Check it out<a href="https://henny2.github.io/portfolio/makeovermonday#week-26-economic-empowerment-viz5"> here</a>.
 </div>
 </div>
 <br>
@@ -37,7 +37,7 @@
 6/24/2020:
   </div>
  <div style="margin-left:1em"> 
- It's week 25 of the #makeovermonday project. This week, it focuses on Amazon's Sales and Profit. Check it out<a href="https://henny2.github.io/portfolio/makeovermonday"> here</a>.
+ It's week 25 of the #makeovermonday project. This week, it focuses on Amazon's Sales and Profit. Check it out<a href="https://henny2.github.io/portfolio/makeovermonday#week-25-amazons-tiny-profits-explained"> here</a>.
 </div>
 </div>
 <br>
