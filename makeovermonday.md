@@ -7,6 +7,20 @@ My goal is to participate in more #makeovermondays to improve my design and tabl
 
 <br>
 
+### Week 28: Flipper and Bill Length for Adelie, Chinstrap and Gentoo Penguins at Palmer Station Antarctica LTER
+
+Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w28){:target="_blank"}
+
+[My redesign](https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w28_PalmerPenguins/FinalDashboard){:target="_blank"}:
+
+<a href="https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w28_PalmerPenguins/FinalDashboard" target="blank">
+  <img src="images/makeovermonday/MoM_w28_PalmerPenguins.png">
+</a>
+
+Data Source: [Structural size measurements and isotopic signatures](https://oceaninformatics.ucsd.edu/datazoo/catalogs/pallter/datasets/220){:target="_blank"}
+
+<br>
+
 ### Week 27: Comparing common mental disorder by sex
 
 Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w27-comparing-common-mental-disorder-by-sex){:target="_blank"}
