@@ -96,10 +96,15 @@ Focus in Automation, Logistics and Operations Research
 ---
 ### Projects
 
-- [Data Science Project - Investigating the impact of clinician's behavior on patients diabetes management](glooko)
+##### Data Visualization
 - [Data visualization - Global Startup Funding](startupFunding)
 - [Data visualization - Makeover Mondays](makeovermonday)
 - [Data visualization - Why networking works](https://observablehq.com/@henny2/networking-works){:target="_blank"}
+
+##### Data Science
+- [Data Science Project - Investigating the impact of clinician's behavior on patients diabetes management](glooko)
+
+##### Others
 - [Webcrawling](webcrawler)
 
 ---
