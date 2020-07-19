@@ -10,7 +10,7 @@
 7/18/2020:
   </div>
  <div style="margin-left:1em"> 
- This week was all about the penguins in antarctica. Check out my viz about the Palmer Penguins <a href="https://henny2.github.io/portfolio/makeovermonday"> here</a>.
+ This week was all about the penguins in antarctica. Check out my viz about the Palmer Penguins <a href="https://henny2.github.io/portfolio/makeovermonday#week-28-flipper-and-bill-length-for-adelie-chinstrap-and-gentoo-penguins-at-palmer-station-antarctica-lter"> here</a>.
 </div>
 </div>
 <br>
