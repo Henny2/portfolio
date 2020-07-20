@@ -19,7 +19,7 @@
 7/18/2020:
   </div>
  <div style="margin-left:1em"> 
- This week was all about the penguins in antarctica. Check out my viz about the Palmer Penguins <a href="https://henny2.github.io/portfolio/makeovermonday#week-28-flipper-and-bill-length-for-adelie-chinstrap-and-gentoo-penguins-at-palmer-station-antarctica-lter"> here</a>.
+   In terms of <strong>MakeoverMonday</strong>, this week was all about the penguins in antarctica. Check out my viz about the Palmer Penguins <a href="https://henny2.github.io/portfolio/makeovermonday#week-28-flipper-and-bill-length-for-adelie-chinstrap-and-gentoo-penguins-at-palmer-station-antarctica-lter"> here</a>.
 </div>
 </div>
 <br>
@@ -28,7 +28,7 @@
 7/9/2020:
   </div>
  <div style="margin-left:1em"> 
- For week 27 we had a very small data set and it was very easy to draw wrong conclusions. A little bit of back and forth resulted in an easy but nice dumbbell chart. You can find it<a href="https://henny2.github.io/portfolio/makeovermonday#week-27-comparing-common-mental-disorder-by-sex"> here</a>.
+   For week 27 of <strong>MakeoverMonday</strong> we had a very small data set and it was very easy to draw wrong conclusions. A little bit of back and forth resulted in an easy but nice dumbbell chart. You can find it<a href="https://henny2.github.io/portfolio/makeovermonday#week-27-comparing-common-mental-disorder-by-sex"> here</a>.
 </div>
 </div>
 <br>
@@ -37,7 +37,7 @@
 7/5/2020:
   </div>
  <div style="margin-left:1em"> 
- This week it was time for another #viz5, investigating gender equality in business. I focused on women in entrepreneuship and created a long form viz. Check it out<a href="https://henny2.github.io/portfolio/makeovermonday#week-26-economic-empowerment-viz5"> here</a>.
+   This week at <strong>MakeoverMonday</strong> it was time for another #viz5, investigating gender equality in business. I focused on women in entrepreneuship and created a long form viz. Check it out<a href="https://henny2.github.io/portfolio/makeovermonday#week-26-economic-empowerment-viz5"> here</a>.
 </div>
 </div>
 <br>
