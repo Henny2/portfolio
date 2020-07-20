@@ -31,7 +31,7 @@ Challenge description and dashboard that was meant to be recreated can be found 
 [My recreation](https://public.tableau.com/profile/henny7470#!/vizhome/WOW_w28_Are-sales-on-track-with-the-goal/ARESALESONTRACKWITHTHEGOAL){:target="_blank"}:
 
 <a href="https://public.tableau.com/profile/henny7470#!/vizhome/WOW_w28_Are-sales-on-track-with-the-goal/ARESALESONTRACKWITHTHEGOAL" target="blank">
-  <img src="images/workoutwednesday/WOW_w28_Are-sales-on-track-with-the-goal?.png">
+  <img src="images/workoutwednesday/WOW_w28_Are-sales-on-track-with-the-goal.png">
 </a>
 
 #### Things I learned:
