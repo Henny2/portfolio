@@ -10,7 +10,7 @@
 7/19/2020:
   </div>
  <div style="margin-left:1em"> 
- I added a new project I recently started. Find out what the Workout Wednesday is <a href="https://henny2.github.io/portfolio/workoutwednesday"> here</a>.
+   I added a <strong>new project</strong> I recently started. Find out what the Workout Wednesday is <a href="https://henny2.github.io/portfolio/workoutwednesday"> here</a>.
 </div>
 </div>
 <br>
