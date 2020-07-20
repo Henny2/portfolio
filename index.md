@@ -99,6 +99,7 @@ Focus in Automation, Logistics and Operations Research
 #### Data Visualization
 - [Global Startup Funding](startupFunding)
 - [Makeover Mondays](makeovermonday)
+- [Workout Wednesday](workoutwednesday)
 - [Why networking works](https://observablehq.com/@henny2/networking-works){:target="_blank"}
 
 #### Data Science
