@@ -8,12 +8,12 @@ Workout Wednesday is a weekly Tableau challenge where you have to recreate a das
 
 ### 2020 Week 29: Can you dynamically display label on a heatmap?
 
-Challenge description and dashboard that was meant to be recreated can be found [here](http://www.workout-wednesday.com/2020w29/)
+Challenge description and dashboard that was meant to be recreated can be found [here](http://www.workout-wednesday.com/2020w29/).
 
 [My recreation](https://public.tableau.com/profile/henny7470#!/vizhome/WOW_w29_Dynamically-display-heat-map-labels/Canyoudynamicallydisplaylabelsonaheatmap){:target="_blank"}:
 
 <a href="https://public.tableau.com/profile/henny7470#!/vizhome/WOW_w29_Dynamically-display-heat-map-labels/Canyoudynamicallydisplaylabelsonaheatmap" target="blank">
-  <img src="images/workoutwednesday/WoW_w29_Dynamically-display-heat-map-labels.png">
+  <img src="images/workoutwednesday/WOW_w29_Dynamically-display-heat-map-labels.png">
 </a>
 
 #### Things I learned:
@@ -26,12 +26,12 @@ Challenge description and dashboard that was meant to be recreated can be found 
 
 ### 2020 Week 28: Are Sales on Track with Goal?
 
-Challenge description and dashboard that was meant to be recreated can be found [here](http://www.workout-wednesday.com/2020w28/)
+Challenge description and dashboard that was meant to be recreated can be found [here](http://www.workout-wednesday.com/2020w28/).
 
 [My recreation](https://public.tableau.com/profile/henny7470#!/vizhome/WOW_w28_Are-sales-on-track-with-the-goal/ARESALESONTRACKWITHTHEGOAL){:target="_blank"}:
 
 <a href="https://public.tableau.com/profile/henny7470#!/vizhome/WOW_w28_Are-sales-on-track-with-the-goal/ARESALESONTRACKWITHTHEGOAL" target="blank">
-  <img src="images/workoutwednesday/WoW_w28_Are-sales-on-track-with-the-goal.png">
+  <img src="images/workoutwednesday/WOW_w28_Are-sales-on-track-with-the-goal?.png">
 </a>
 
 #### Things I learned:
