@@ -7,6 +7,15 @@
 ### Latest Updates
 <div style="display:flex; flex-direction:row;">
   <div style="flex: 0 0 30px;" >
+8/5/2020:
+  </div>
+ <div style="margin-left:1em"> 
+   Falling a little behind, I just uploaded two new <strong>MakeoverMonday</strong> visualizations. One describing the impact of religion on people's opinion about <a href="https://henny2.github.io/portfolio/makeovermonday#week-29-should-homosexuality-be-accepted-in-society">homosexuality</a> and the other focusing on <a href="https://henny2.github.io/portfolio/makeovermonday#week-30-women-in-power-viz5">women in power</a>.
+</div>
+</div>
+<br>
+<div style="display:flex; flex-direction:row;">
+  <div style="flex: 0 0 30px;" >
 7/19/2020:
   </div>
  <div style="margin-left:1em"> 
@@ -29,15 +38,6 @@
   </div>
  <div style="margin-left:1em"> 
    For week 27 of <strong>MakeoverMonday</strong> we had a very small data set and it was very easy to draw wrong conclusions. A little bit of back and forth resulted in an easy but nice dumbbell chart. You can find it<a href="https://henny2.github.io/portfolio/makeovermonday#week-27-comparing-common-mental-disorder-by-sex"> here</a>.
-</div>
-</div>
-<br>
-<div style="display:flex; flex-direction:row;">
-  <div style="flex: 0 0 30px;" >
-7/5/2020:
-  </div>
- <div style="margin-left:1em"> 
-   This week at <strong>MakeoverMonday</strong> it was time for another #viz5, investigating gender equality in business. I focused on women in entrepreneuship and created a long form viz. Check it out<a href="https://henny2.github.io/portfolio/makeovermonday#week-26-economic-empowerment-viz5"> here</a>.
 </div>
 </div>
 <br>
