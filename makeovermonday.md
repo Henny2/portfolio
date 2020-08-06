@@ -7,6 +7,34 @@ My goal is to participate in more #makeovermondays to improve my design and tabl
 
 <br>
 
+### Week 30: Women in Power, [#Viz5](https://www.makeovermonday.co.uk/viz5/)
+
+Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w30){:target="_blank"}
+
+[My redesign](https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w30_FemalesInPolitics/FinalDashboard){:target="_blank"}:
+
+<a href="https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w30_FemalesInPolitics/FinalDashboard" target="blank">
+  <img src="images/makeovermonday/MoM_w30_FemalesInPolitics.png">
+</a>
+
+Data Source: [World Bank](http://api.worldbank.org/v2/en/indicator/SG.GEN.PARL.ZS?downloadformat=excel){:target="_blank"}
+
+<br>
+
+### Week 29: Should Homosexuality be accepted in society?
+
+Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w29-the-global-divide-on-homosexuality-persists){:target="_blank"}
+
+[My redesign](https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w29_AcceptanceHomosexuality/finalDashboard2){:target="_blank"}:
+
+<a href="https://public.tableau.com/profile/henny7470#!/vizhome/MoM_w29_AcceptanceHomosexuality/finalDashboard2" target="blank">
+  <img src="images/makeovermonday/MoM_w29_AcceptanceHomosexuality.png">
+</a>
+
+Data Source: [Pew Research](https://www.pewresearch.org/global/2020/06/25/global-divide-on-homosexuality-persists/){:target="_blank"}
+
+<br>
+
 ### Week 28: Flipper and Bill Length for Adelie, Chinstrap and Gentoo Penguins at Palmer Station Antarctica LTER
 
 Data Set and picked Visualization can be found on [data.world](https://data.world/makeovermonday/2020w28){:target="_blank"}
