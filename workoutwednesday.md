@@ -6,6 +6,42 @@ Workout Wednesday is a weekly Tableau challenge where you have to recreate a das
 
 <br>
 
+### 2020 Week 31: Can you show the top 10 rank over time for each Olympic country??
+
+Challenge description and dashboard that was meant to be recreated can be found [here](http://www.workout-wednesday.com/2020w31/).
+
+[My recreation](https://public.tableau.com/profile/henny7470#!/vizhome/WoW_w30_DrilldownUsingSetActions/Dashboard2){:target="_blank"}:
+
+<a href="https://public.tableau.com/profile/henny7470#!/vizhome/WOW_w31_RankOlympics/FinalDashboard" target="blank">
+  <img src="images/workoutwednesday/WOW_w31_RankOlympics.png">
+</a>
+
+#### Things I learned:
+- working with relations and the new data model in Tableau
+- using size field to size different shapes differently 
+- rank diagram in Tableau 
+
+<br>
+
+### 2020 Week 30: Can you create a drilldown using set actions?
+
+Challenge description and dashboard that was meant to be recreated can be found [here](http://www.workout-wednesday.com/2020w30/).
+
+[My recreation](https://public.tableau.com/profile/henny7470#!/vizhome/WoW_w30_DrilldownUsingSetActions/Dashboard2){:target="_blank"}:
+
+<a href="https://public.tableau.com/profile/henny7470#!/vizhome/WoW_w30_DrilldownUsingSetActions/Dashboard2" target="blank">
+  <img src="images/workoutwednesday/WoW_w30_byState.png">
+</a>
+<a href="https://public.tableau.com/profile/henny7470#!/vizhome/WoW_w30_DrilldownUsingSetActions/Dashboard2" target="blank">
+  <img src="images/workoutwednesday/WoW_w30_California.png">
+</a>
+
+#### Things I learned:
+- drilling down using set actions
+- workaround with calculated fields for a filter
+
+<br>
+
 ### 2020 Week 29: Can you dynamically display label on a heatmap?
 
 Challenge description and dashboard that was meant to be recreated can be found [here](http://www.workout-wednesday.com/2020w29/).
